@@ -50,3 +50,5 @@ class Experimentum(GuessGame):
                 break
 
         return self.guesses
+    def getStats():
+        pass
